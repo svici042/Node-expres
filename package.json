@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "@ljharb/tsconfig": "^0.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svici042/Node-expres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/svici042/Node-expres/issues"
+  },
+  "homepage": "https://github.com/svici042/Node-expres#readme"
 }
